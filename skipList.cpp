@@ -1,8 +1,7 @@
 /*
  * Salma Gamal Kamel
  * 8/12/2024 updated 9/12/2024
- * Task 3: Skip List
- * a. Implement a Skip List data structure
+ *  Skip List
  */
 #include <iostream>
 #include <bits/stdc++.h>
